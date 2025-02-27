@@ -1,0 +1,3 @@
+obim:x:1006:1008::/home/obim:/bin/bash
+Fri:x:1007:1009::/home/Fri:/bin/bash
+keneth:x:1008:1011::/home/keneth:/bin/bash
